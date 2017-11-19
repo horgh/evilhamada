@@ -2,3 +2,6 @@ oper-name =
 oper-password =
 oper-umodes = +C
 record-ip-file =
+twitchstreams-channels =
+twitchstreams-client-id =
+twitchstreams-users =
