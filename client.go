@@ -11,7 +11,6 @@ import (
 	"github.com/horgh/godrop"
 	_ "github.com/horgh/godrop/duckduckgo"
 	_ "github.com/horgh/godrop/oper"
-	_ "github.com/horgh/godrop/recordips"
 	_ "github.com/horgh/godrop/twitchstreams"
 )
 
