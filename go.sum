@@ -1,0 +1,14 @@
+github.com/horgh/config v0.0.0-20190101204049-770bc48a3bdf h1:/jDikK0Oteboi7/Z6uzan5aQhiqwMwKTIA+5ZooDclk=
+github.com/horgh/config v0.0.0-20190101204049-770bc48a3bdf/go.mod h1:DSwQKBmwAzGuDhYajjeJshx5PCPCJfSZJXtbV+8/nck=
+github.com/horgh/godrop v0.0.0-20180814005416-48b2bb9022c4 h1:nDdBIWBbiwEAWQwynbEjX9+0+6Nd4K+r07pKn4CuvOQ=
+github.com/horgh/godrop v0.0.0-20180814005416-48b2bb9022c4/go.mod h1:u9sAzI3yZ6Xqt19weieEO7Jvd1RhuWupSoYSOC55j3g=
+github.com/horgh/irc v0.0.0-20190101204118-d089b0b5b5c5 h1:wndND79llNLTZZW/Xcg9oKMk/NuGMo+pAX+LKg1mZF8=
+github.com/horgh/irc v0.0.0-20190101204118-d089b0b5b5c5/go.mod h1:JLhFcwXOnpvhMer1MERfJuFIoJnADayDWe0VkMN3LP4=
+golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
+golang.org/x/net v0.0.0-20191209160850-c0dbc17a3553 h1:efeOvDhwQ29Dj3SdAV/MJf8oukgn+8D8WgaCaRMchF8=
+golang.org/x/net v0.0.0-20191209160850-c0dbc17a3553/go.mod h1:z5CRVTTTmAJ677TzLLGU+0bjPO0LkuOLi4/5GtJWs/s=
+golang.org/x/sys v0.0.0-20190215142949-d0b11bdaac8a/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
+golang.org/x/text v0.3.0/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v2 v2.2.2/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=
